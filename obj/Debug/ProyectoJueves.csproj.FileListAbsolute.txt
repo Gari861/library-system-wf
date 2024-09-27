@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\ProyectoJueves\bin\Debug\ProyectoJueves.exe.config
+C:\Users\User\Desktop\ProyectoJueves\bin\Debug\ProyectoJueves.exe
+C:\Users\User\Desktop\ProyectoJueves\bin\Debug\ProyectoJueves.pdb
+C:\Users\User\Desktop\ProyectoJueves\obj\Debug\ProyectoJueves.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ProyectoJueves\obj\Debug\ProyectoJueves.Form1.resources
+C:\Users\User\Desktop\ProyectoJueves\obj\Debug\ProyectoJueves.frmModificarLibro.resources
+C:\Users\User\Desktop\ProyectoJueves\obj\Debug\ProyectoJueves.frmNuevoLibro.resources
+C:\Users\User\Desktop\ProyectoJueves\obj\Debug\ProyectoJueves.Properties.Resources.resources
+C:\Users\User\Desktop\ProyectoJueves\obj\Debug\ProyectoJueves.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ProyectoJueves\obj\Debug\ProyectoJueves.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ProyectoJueves\obj\Debug\ProyectoJueves.exe
+C:\Users\User\Desktop\ProyectoJueves\obj\Debug\ProyectoJueves.pdb
